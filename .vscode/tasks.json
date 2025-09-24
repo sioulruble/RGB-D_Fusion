@@ -9,13 +9,13 @@
 				"RGBDImmersion",
 				"Linux",
 				"Debug",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"RGBDImmersion",
 				"Linux",
 				"Debug",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -35,7 +35,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -46,14 +46,14 @@
 				"RGBDImmersion",
 				"Linux",
 				"Debug",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -64,13 +64,13 @@
 				"RGBDImmersion",
 				"Linux",
 				"DebugGame",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -81,7 +81,7 @@
 				"RGBDImmersion",
 				"Linux",
 				"DebugGame",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -90,7 +90,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -101,14 +101,14 @@
 				"RGBDImmersion",
 				"Linux",
 				"DebugGame",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -119,13 +119,13 @@
 				"RGBDImmersion",
 				"Linux",
 				"Development",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 				"RGBDImmersion",
 				"Linux",
 				"Development",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -145,7 +145,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -156,14 +156,14 @@
 				"RGBDImmersion",
 				"Linux",
 				"Development",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -174,13 +174,13 @@
 				"RGBDImmersion",
 				"Linux",
 				"Test",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -191,7 +191,7 @@
 				"RGBDImmersion",
 				"Linux",
 				"Test",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -200,7 +200,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -211,14 +211,14 @@
 				"RGBDImmersion",
 				"Linux",
 				"Test",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -229,13 +229,13 @@
 				"RGBDImmersion",
 				"Linux",
 				"Shipping",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -246,7 +246,7 @@
 				"RGBDImmersion",
 				"Linux",
 				"Shipping",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -255,7 +255,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -266,14 +266,14 @@
 				"RGBDImmersion",
 				"Linux",
 				"Shipping",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -284,13 +284,13 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"Debug",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -301,7 +301,7 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"Debug",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -310,7 +310,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -321,14 +321,14 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"Debug",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -339,13 +339,13 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"DebugGame",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"DebugGame",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -365,7 +365,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -376,14 +376,14 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"DebugGame",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -394,13 +394,13 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"Development",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -411,7 +411,7 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"Development",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -420,7 +420,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -431,14 +431,14 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"Development",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -449,13 +449,13 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"Test",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -466,7 +466,7 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"Test",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -475,7 +475,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -486,14 +486,14 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"Test",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -504,13 +504,13 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"Shipping",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -521,7 +521,7 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"Shipping",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -530,7 +530,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -541,14 +541,14 @@
 				"RGBDImmersion",
 				"LinuxArm64",
 				"Shipping",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -559,13 +559,13 @@
 				"RGBDImmersionEditor",
 				"Linux",
 				"Debug",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -576,7 +576,7 @@
 				"RGBDImmersionEditor",
 				"Linux",
 				"Debug",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -585,7 +585,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -596,14 +596,14 @@
 				"RGBDImmersionEditor",
 				"Linux",
 				"Debug",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -614,13 +614,13 @@
 				"RGBDImmersionEditor",
 				"Linux",
 				"DebugGame",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -631,7 +631,7 @@
 				"RGBDImmersionEditor",
 				"Linux",
 				"DebugGame",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -640,7 +640,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -651,14 +651,14 @@
 				"RGBDImmersionEditor",
 				"Linux",
 				"DebugGame",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -669,13 +669,13 @@
 				"RGBDImmersionEditor",
 				"Linux",
 				"Development",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -686,7 +686,7 @@
 				"RGBDImmersionEditor",
 				"Linux",
 				"Development",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -695,7 +695,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		},
 		{
@@ -706,14 +706,14 @@
 				"RGBDImmersionEditor",
 				"Linux",
 				"Development",
-				"/home/raphael/Documents/Unreal Projects/RGBDImmersion/RGBDImmersion.uproject",
+				"/home/jrluser/Documents/Unreal Projects/RGB-D_Fusion/RGBDImmersion.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0"
+				"cwd": "/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0"
 			}
 		}
 	]

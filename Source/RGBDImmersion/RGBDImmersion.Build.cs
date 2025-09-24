@@ -10,14 +10,14 @@ public class RGBDImmersion : ModuleRules
 		CppStandard = CppStandardVersion.Cpp17;
 
 
-        	PublicIncludePaths.Add("/home/raphael/Downloads/Linux_Unreal_Engine_5.1.0/Engine/Plugins/Runtime/OpenCV/Source/ThirdParty/OpenCV/include");
+        	PublicIncludePaths.Add("/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0/Engine/Plugins/Runtime/OpenCV/Source/ThirdParty/OpenCV/include");
         	PublicIncludePaths.Add("/usr/include/eigen3");
         	PublicIncludePaths.Add("/usr/include");
 	      	PublicIncludePaths.Add("/usr/lib/x86_64-linux-gnu/libk4a.so");
 	      	
 	      	PublicAdditionalLibraries.Add("/usr/lib/x86_64-linux-gnu/libk4a.so");
 	      	
-	      	        	PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay", "rclUE", "UMG", "RHI", "RenderCore", "zlib", "LibJpegTurbo", "LibTiff", "OpenCV", "OpenCVHelper", "GeometryCore",  "GeometryFramework", "MeshDescription" });
+	      	        	PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay", "rclUE", "UMG", "RHI", "RenderCore", "zlib", "LibJpegTurbo", "LibTiff", "OpenCV", "OpenCVHelper", "GeometryCore",  "GeometryFramework", "MeshDescription", "OpenVR" });
         	
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });

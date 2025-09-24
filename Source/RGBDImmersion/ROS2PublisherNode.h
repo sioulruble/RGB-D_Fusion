@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "Components/CheckBox.h"
 
 #include "ROS2Publisher.h"
 #include <Msgs/ROS2String.h>
@@ -32,6 +33,28 @@ public:
 
 	UPROPERTY()
 	APawn* PlayerPawn;
+
+	UPROPERTY()
+	FVector LeftElbowPos;
+	UPROPERTY()
+	FVector RightElbowPos;
+	UPROPERTY()
+	FVector WaistPos;
+	UPROPERTY()
+	FVector RightHandPos;
+	UPROPERTY()
+	FRotator LeftElbowRot;
+	UPROPERTY()
+	FRotator RightElbowRot;
+	UPROPERTY()
+	FRotator WaistRot;
+	UPROPERTY()
+	FRotator RightHandRot;
+
+	UPROPERTY()
+	bool IsRobotMoving = false;
+	UPROPERTY()
+	UCheckBox* MoveRobot = nullptr;
 
 protected:
 	// Called when the game starts or when spawned

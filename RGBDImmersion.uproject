@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{A430C6F1-0E12-477A-B442-A4B29DA14BAD}",
+	"EngineAssociation": "{230EE3BB-1676-4697-BA2E-5B6F8BA70C9D}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -19,6 +19,14 @@
 			"Enabled": true
 		},
 		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "rclUE",
+			"Enabled": true
+		},
+		{
 			"Name": "OpenXR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -26,14 +34,6 @@
 				"Linux",
 				"Android"
 			]
-		},
-		{
-			"Name": "GeometryScripting",
-			"Enabled": true
-		},
-		{
-			"Name": "rclUE",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
