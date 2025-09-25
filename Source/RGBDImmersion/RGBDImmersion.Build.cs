@@ -10,7 +10,6 @@ public class RGBDImmersion : ModuleRules
 		CppStandard = CppStandardVersion.Cpp17;
 
 
-        	PublicIncludePaths.Add("/home/jrluser/Downloads/Linux_Unreal_Engine_5.1.0/Engine/Plugins/Runtime/OpenCV/Source/ThirdParty/OpenCV/include");
         	PublicIncludePaths.Add("/usr/include/eigen3");
         	PublicIncludePaths.Add("/usr/include");
 	      	PublicIncludePaths.Add("/usr/lib/x86_64-linux-gnu/libk4a.so");
