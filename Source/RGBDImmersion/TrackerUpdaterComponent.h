@@ -17,21 +17,31 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Tracker")
 	UStaticMeshComponent* TrackerMesh;
+	
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Tracker")
 	UStaticMeshComponent* TrackerMesh2;
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Tracker")
 	UStaticMeshComponent* TrackerMesh3;
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Tracker")
 	UStaticMeshComponent* TrackerMeshHMD;
+
+	UPROPERTY()
+	FString Serial_LeftElbow;
+
+	UPROPERTY()
+	FString Serial_RightElbow;
+
+	UPROPERTY()
+	FString Serial_Waist;
 	
 	UPROPERTY()
-	TArray<FVector> TrackerPositions;
-	
-	int countTracker = 0;
-	UPROPERTY()
-	FVector SteamVRHDMPos;
+	FVector SteamVRHDMPos
+
 	UPROPERTY()
 	FVector HMDOffset;
+
 	UPROPERTY()
 	APawn* PlayerPawn;
 
