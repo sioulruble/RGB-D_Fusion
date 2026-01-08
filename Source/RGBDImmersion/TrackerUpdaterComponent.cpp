@@ -64,7 +64,7 @@ void UTrackerUpdaterComponent::TickComponent(
 			vr::VRSystem()->GetTrackedDeviceClass(i);
 
 		const vr::HmdMatrix34_t& Mat = Poses[i].mDeviceToAbsoluteTracking;
-
+		SteamVRHDMPos = FVector(-Mat.m[2][3] * 100.f, Mat.m[0][3] * 100.f, Mat.m[1][3] * 100.f);
 		FVector Pos(
 			-Mat.m[2][3] * 100.f,
 			 Mat.m[0][3] * 100.f,
@@ -82,13 +82,19 @@ void UTrackerUpdaterComponent::TickComponent(
 
 		if (DeviceClass == vr::TrackedDeviceClass_HMD)
 		{
-			if (PlayerPawn)
-			{
-				TArray<UCameraComponent*> Cameras;
-				PlayerPawn->GetComponents(Cameras);
-				if (Cameras.Num() > 0)
-					HMDOffset = Cameras[0]->GetComponentLocation() - Pos;
-			}
+				if (PlayerPawn)
+				{
+					// Get the position of the VR Headset in the Scene
+					TArray<UCameraComponent*> CameraComponents;
+					PlayerPawn->GetComponents<UCameraComponent>(CameraComponents);
+
+					// Compute the Mesh Position Minus the Camera Position to align the two elements
+					for (UCameraComponent* CameraComp : CameraComponents)
+					{
+						HMDOffset = CameraComp->GetComponentLocation() - SteamVRHDMPos;
+						break;
+					}
+				}
 
 			if (TrackerMeshHMD)
 				TrackerMeshHMD->SetWorldLocation(Pos + HMDOffset);
