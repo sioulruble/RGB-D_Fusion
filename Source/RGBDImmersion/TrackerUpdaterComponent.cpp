@@ -71,14 +71,13 @@ void UTrackerUpdaterComponent::TickComponent(
 			 Mat.m[1][3] * 100.f
 		);
 
-		FVector X(Mat.m[0][0], Mat.m[1][0], Mat.m[2][0]);
-		FVector Y(Mat.m[0][1], Mat.m[1][1], Mat.m[2][1]);
-		FVector Z(Mat.m[0][2], Mat.m[1][2], Mat.m[2][2]);
+		FMatrix M(
+			FPlane( Mat.m[0][0], -Mat.m[2][0], Mat.m[1][0], 0),
+			FPlane( Mat.m[0][2], -Mat.m[2][2], Mat.m[1][2], 0),
+			FPlane( Mat.m[0][1], -Mat.m[2][1], Mat.m[1][1], 0),
+			FPlane(0, 0, 0, 1));
 
-		FMatrix M;
-		M.SetAxes(&X, &Y, &Z);
-
-		FRotator Rot = FQuat(M).Rotator();
+		FRotator Rot = M.Rotator();
 
 		if (DeviceClass == vr::TrackedDeviceClass_HMD)
 		{
